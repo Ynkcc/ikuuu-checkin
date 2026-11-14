@@ -1,0 +1,13 @@
+{
+  "api_id": 0,
+  "api_hash": "填入你的api_hash；申请见 https://core.telegram.org/api/obtaining_api_id ，或使用tdesktop文档公开的测试凭据：https://github.com/telegramdesktop/tdesktop/blob/dev/docs/api_credentials.md",
+  "phone": "+8613800138000",
+  "bot": "iKuuuu_VPN_bot",
+  "command": "/checkin",
+  "proxy": {
+    "enabled": true,
+    "type": "socks5",
+    "host": "127.0.0.1",
+    "port": 7890
+  }
+}
